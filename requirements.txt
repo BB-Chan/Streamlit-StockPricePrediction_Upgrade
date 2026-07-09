@@ -9,3 +9,4 @@ scipy
 scikit-learn
 keras
 ruptures
+pandas_market_calendars
