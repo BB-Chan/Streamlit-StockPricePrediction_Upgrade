@@ -1,0 +1,11 @@
+plotly
+yfinance
+pandas == 2.2.3
+numpy
+tensorflow
+xgboost
+datetime
+scipy
+scikit-learn
+keras
+ruptures
